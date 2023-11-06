@@ -1,7 +1,7 @@
 ## Prazer sou Jefferson Teles, Pesquisador e Desenvolvedor!
 <div align="center">
   <a href="https://github.com/JeffersonTeles314">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonTeles314)](https://github.com/JeffersonTeles314/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonTeles314)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
  <br>
